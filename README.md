@@ -4,9 +4,9 @@ specially to scan a network that is connected with your own device and to scan o
 
 
 
-A Python-based network scanning program that identifies connected devices and scans for open ports within a specified range. This tool provides an easy-to-use GUI for input and displays results in a user-friendly format. Results can also be saved to a CSV file for future analysis.
+Network scanning with python program that identifies connected devices and scans for open ports within a specified range. This tool provides an easy-to-use GUI for input and displays results in a user-friendly format. Results can also be saved to a CSV file for future analysis.
 
-Features
+# Features
 
 Network Scan: Scans a specified IP range for connected devices, retrieving their IP and MAC addresses.
 
